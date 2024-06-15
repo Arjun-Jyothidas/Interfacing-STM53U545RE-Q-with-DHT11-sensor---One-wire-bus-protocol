@@ -1,3 +1,4 @@
+# Interfacing-STM53U545RE-Q-with-DHT11-sensor--One-wire-bus-protocol-1
 Following repository contains HAL C code for developing a one-wire bus communication between STM32U545RE-Q and DHT-11 sensor.
 DHT11 sensor is a temperature and humidity sensor. the details of the sensor are provided in the datasheet with which the sensor is interfaced to the microcontroller. The link for the datasheet is given as:
 https://www.mouser.com/datasheet/2/758/DHT11-Technical-Data-Sheet-Translated-Version-1143054.pdf
